@@ -15,7 +15,7 @@ export default function App() {
           <a href="#download" className="hover:text-slate-900">Download</a>
         </nav>
       </header>
-
+c
       <section className="relative overflow-hidden">
         <div className="max-w-6xl mx-auto px-4 pt-6 pb-16 grid md:grid-cols-2 gap-10 items-center">
           <div>
